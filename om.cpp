@@ -145,7 +145,7 @@ int main()
         cout<<"Please enter valid number\n";
     }
     
-    //added a comment 
+
     end:
 
      return 0;
