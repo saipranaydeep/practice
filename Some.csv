@@ -1,0 +1,464 @@
+sentence,label
+"The annual tech conference will be held at the Convention Center on March 15th, 2024.",1
+"I enjoy reading books in my free time.",0
+"The weather is quite pleasant today.",0
+"Dr. Sarah Johnson will present her research findings at the medical symposium tomorrow at 2 PM.",1
+"Coffee is one of the most popular beverages worldwide.",0
+"The concert featuring Mozart's Symphony No. 40 is scheduled for Friday evening at Carnegie Hall.",1
+"Plants need sunlight and water to grow properly.",0
+"The emergency town hall meeting will take place at City Hall on December 3rd at 7 PM.",1
+"Mathematics is a fundamental subject in education.",0
+"The wedding ceremony of John and Mary will be celebrated at St. Peter's Church next Saturday.",1
+"Cats are known for their independent nature.",0
+"The quarterly board meeting is scheduled for Room 205 at 10 AM on January 22nd.",1
+"Exercise is important for maintaining good health.",0
+"The film festival opens tonight at the Regal Theater with a screening of 'Midnight Dreams'.",1
+"The ocean contains vast amounts of salt water.",0
+"Professor Williams will deliver a lecture on quantum physics at the university auditorium this Thursday.",1
+"Cooking requires practice and patience to master.",0
+"The charity gala will be hosted at the Grand Ballroom on Valentine's Day to raise funds for education.",1
+"Books are a great source of knowledge and entertainment.",0
+"The product launch event for the new smartphone will take place at the Tech Center on April 8th.",1
+"Traffic can be heavy during rush hour.",0
+"The art exhibition featuring contemporary paintings opens at the Metropolitan Museum next week.",1
+"Diamonds are formed under extreme pressure and heat.",0
+"The annual shareholders' meeting will convene at the corporate headquarters on September 12th at 9 AM.",1
+"Cooking vegetables preserves their nutritional value.",0
+"The memorial service for Lieutenant Colonel Smith will be held at Arlington Cemetery on Monday morning.",1
+"Rivers flow from higher to lower elevations.",0
+"The science fair judging will begin at Lincoln Elementary School tomorrow at 1 PM.",1
+"Friendship is one of life's greatest treasures.",0
+"The Broadway musical 'Phantom of the Opera' will have its final performance at the Majestic Theatre on April 16th.",1
+"Recycling helps reduce environmental waste.",0
+"The press conference regarding the new policy will be held at the State Capitol building on Thursday at 3 PM.",1
+"Learning a new language takes time and dedication.",0
+"The graduation ceremony for the Class of 2024 will take place at the football stadium on June 5th.",1
+"Sunsets are beautiful natural phenomena.",0
+"The archaeological dig briefing will be conducted at the research facility on Saturday morning.",1
+"Music has the power to evoke emotions.",0
+"The holiday party will be celebrated at the community center on December 20th starting at 6 PM.",1
+"Regular exercise contributes to overall well-being.",0
+"The court hearing for the landmark case will begin at the Supreme Court building on Monday at 10 AM.",1
+"Computers have revolutionized modern communication.",0
+"The book signing event with author Jane Mitchell will take place at Barnes & Noble on Tuesday evening.",1
+"Proper nutrition is essential for child development.",0
+"The tornado warning drill will be conducted at all schools in the district on Wednesday at 2 PM.",1
+"Television has changed the way we consume entertainment.",0
+"The annual charity run will start at Central Park on October 15th at 8 AM.",1
+"Learning to drive requires practice and confidence.",0
+"The space shuttle launch is scheduled for Kennedy Space Center on July 4th at 11:30 AM.",1
+"Flowers bloom in different seasons depending on their species.",0
+"The retirement celebration for Principal Johnson will be held in the school cafeteria on Friday afternoon.",1
+"Reading improves vocabulary and comprehension skills.",0
+"The town council meeting will address zoning issues at City Hall on Monday evening at 7 PM.",1
+"Mountains are formed through geological processes over millions of years.",0
+"The annual science symposium will feature guest speakers at the university on March 28th.",1
+"Healthy eating habits contribute to longevity.",0
+"The championship game will be played at Yankee Stadium on Sunday at 3 PM.",1
+"Art is a form of creative expression.",0
+"The evacuation drill will be conducted at the office building on Thursday at 10 AM.",1
+"Technology continues to advance at a rapid pace.",0
+"The wedding reception will be held at the Grand Hotel ballroom on Saturday evening.",1
+"Sleep is crucial for physical and mental health.",0
+"The annual awards ceremony will take place at the Convention Center on February 14th at 7 PM.",1
+"Gardening is a rewarding hobby that connects people with nature.",0
+"The emergency preparedness workshop will be held at the fire station on Saturday at 9 AM.",1
+"Music education benefits cognitive development in children.",0
+"The product recall announcement will be made at the company headquarters on Tuesday at 2 PM.",1
+"Traveling broadens one's perspective on different cultures.",0
+"The graduation speech will be delivered by the valedictorian at the ceremony on June 10th.",1
+"Effective communication is key to successful relationships.",0
+"The fundraising dinner will be hosted at the Hilton Hotel on November 25th at 6:30 PM.",1
+"Regular maintenance extends the life of household appliances.",0
+"The court trial will begin at the county courthouse on Wednesday morning at 9 AM.",1
+"Meditation can help reduce stress and improve mental clarity.",0
+"The ribbon-cutting ceremony for the new library will take place on Main Street on Thursday at 11 AM.",1
+"Proper hydration is important for athletic performance.",0
+"The annual conference on climate change will be held at the International Center on May 20th.",1
+"Volunteering provides opportunities to help others and build community.",0
+"The memorial dedication will occur at Veterans Park on Memorial Day at 10 AM.",1
+"Time management skills are valuable in both personal and professional settings.",0
+"The board of directors will meet in the executive conference room on Friday at 2 PM.",1
+"Patience is a virtue that can be developed through practice.",0
+"The film premiere will take place at the Egyptian Theatre on Hollywood Boulevard tonight.",1
+"Regular dental checkups help maintain oral health.",0
+"The emergency response training will be conducted at the training facility on Monday at 8 AM.",1
+"Creativity can be expressed through various artistic mediums.",0
+"The annual holiday concert will be performed at the music hall on December 18th at 7:30 PM.",1
+"Proper posture is important for spinal health.",0
+"The witness testimony will be heard at the district court on Tuesday morning at 10 AM.",1
+"Learning from failure is an important part of personal growth.",0
+"The charity auction will be held at the country club on Saturday evening to benefit local schools.",1
+"Regular exercise helps maintain cardiovascular health.",0
+"The keynote address will be delivered at the business summit on Thursday at 9 AM.",1
+"Effective leadership requires both vision and empathy.",0
+"The town parade will march down Main Street on July 4th starting at 10 AM.",1
+"Cooking from scratch allows for better control over ingredients.",0
+"The safety inspection will be conducted at the manufacturing plant on Wednesday at 1 PM.",1
+"Reading to children helps develop their language skills.",0
+"The annual stockholders meeting will convene at the corporate offices on March 30th at 10 AM.",1
+"Maintaining work-life balance is important for overall well-being.",0
+"The opening ceremony for the Olympics will broadcast live from Paris on Friday evening.",1
+"Learning new skills keeps the mind active and engaged.",0
+"The hurricane preparedness meeting will be held at the emergency operations center on Monday at 6 PM.",1
+"Sustainable living practices help protect the environment.",0
+"The award presentation will take place at the banquet hall on Saturday night at 8 PM.",1
+"Regular sleep schedules help regulate the body's internal clock.",0
+"The protest march will begin at the state capitol building on Sunday at noon.",1
+"Effective problem-solving requires both creativity and logic.",0
+"The grand opening of the new shopping center will be celebrated on Friday morning at 10 AM.",1
+"Learning about history helps us understand the present.",0
+"The emergency evacuation drill will be conducted at the school on Tuesday at 2:30 PM.",1
+"Gratitude can improve mental health and overall life satisfaction.",0
+"The annual charity golf tournament will tee off at Pebble Beach Country Club on Saturday morning.",1
+"Regular vehicle maintenance helps prevent costly repairs.",0
+"The court sentencing will be announced at the federal courthouse on Thursday at 3 PM.",1
+"Effective communication involves both speaking and listening skills.",0
+"The ribbon cutting for the new bridge will take place on River Road on Monday at 11 AM.",1
+"Maintaining friendships requires effort and mutual respect.",0
+"The quarterly earnings report will be presented at the investor meeting on Tuesday at 4 PM.",1
+"Physical activity is important for maintaining bone density.",0
+"The memorial service will be held at the cathedral on Wednesday morning at 10 AM.",1
+"Learning to forgive is beneficial for emotional healing.",0
+"The annual science fair will be judged at the high school gymnasium on Thursday evening.",1
+"Proper nutrition supports immune system function.",0
+"The city council hearing on the budget proposal will be held at City Hall on Friday at 7 PM.",1
+"Developing patience is a lifelong journey.",0
+"The product demonstration will take place at the trade show on Saturday afternoon.",1
+"Regular medical checkups help detect health issues early.",0
+"The wedding rehearsal will be conducted at the church on Friday evening at 6 PM.",1
+"Kindness has the power to positively impact others' lives.",0
+"The annual board retreat will be held at the mountain lodge on September 15th and 16th.",1
+"Learning from mistakes is an important part of personal development.",0
+"The emergency response exercise will be conducted at the hospital on Sunday morning at 9 AM.",1
+"Maintaining a positive attitude can improve overall life satisfaction.",0
+"The book club meeting will discuss the latest novel at the library on Wednesday at 7 PM.",1
+"Regular stretching helps maintain flexibility and prevents injury.",0
+"The groundbreaking ceremony for the new hospital will take place on Thursday at 2 PM.",1
+"Effective time management leads to increased productivity.",0
+"The annual charity walk will begin at the park entrance on Saturday morning at 8 AM.",1
+"Learning new languages opens doors to different cultures.",0
+"The shareholders' vote will be conducted at the annual meeting on Monday at 1 PM.",1
+"Maintaining good relationships requires trust and communication.",0
+"The safety training session will be held at the factory on Tuesday morning at 9 AM.",1
+"Regular meditation can help reduce stress and anxiety.",0
+"The court hearing for the custody case will begin on Wednesday at 10 AM.",1
+"Developing empathy helps us better understand others' perspectives.",0
+"The annual awards banquet will be held at the hotel ballroom on Friday evening at 7 PM.",1
+"Proper sleep hygiene contributes to better rest quality.",0
+"The emergency preparedness drill will be conducted at the office building on Thursday at 3 PM.",1
+"Learning to adapt to change is crucial in today's world.",0
+"The graduation ceremony will be held at the convention center on Saturday afternoon at 2 PM.",1
+"Regular exercise helps maintain mental health and cognitive function.",0
+"The product launch event will take place at the tech campus on Tuesday morning at 10 AM.",1
+"Effective leadership involves inspiring and motivating others.",0
+"The annual fundraising gala will be hosted at the museum on Thursday evening at 6:30 PM.",1
+"Maintaining a healthy diet requires planning and discipline.",0
+"The memorial dedication will occur at the veterans' cemetery on Sunday at 11 AM.",1
+"Learning from feedback helps improve performance and skills.",0
+"The board meeting will be held in the conference room on Friday afternoon at 3 PM.",1
+"Regular social interaction is important for mental health.",0
+"The annual conference will feature keynote speakers at the convention center on Monday.",1
+"Developing resilience helps us cope with life's challenges.",0
+"The ribbon-cutting ceremony will take place at the new facility on Wednesday at noon.",1
+"Effective communication requires active listening skills.",0
+"The charity auction will be held at the country club on Saturday evening at 7 PM.",1
+"Regular physical activity helps maintain cardiovascular health.",0
+"The court trial will begin at the district courthouse on Monday morning at 9 AM.",1
+"Learning to manage stress is important for overall well-being.",0
+"The annual holiday party will be celebrated at the community center on December 22nd at 6 PM.",1
+"Maintaining work-life balance contributes to job satisfaction.",0
+"The emergency response training will be conducted at the fire station on Tuesday at 8 AM.",1
+"Developing patience helps improve relationships with others.",0
+"The product demonstration will take place at the showroom on Thursday afternoon at 2 PM.",1
+"Regular reading helps expand vocabulary and knowledge.",0
+"The annual stockholders meeting will convene at the headquarters on March 25th at 10 AM.",1
+"Effective problem-solving requires creativity and analytical thinking.",0
+"The memorial service will be held at the chapel on Friday morning at 10 AM.",1
+"Learning new skills keeps the mind sharp and engaged.",0
+"The safety inspection will be conducted at the construction site on Wednesday at 1 PM.",1
+"Maintaining good posture is important for spinal health.",0
+"The annual awards ceremony will take place at the theater on Saturday evening at 8 PM.",1
+"Regular exercise helps maintain bone density and muscle strength.",0
+"The court sentencing will be announced on Thursday afternoon at 2 PM.",1
+"Developing empathy helps us connect with others on a deeper level.",0
+"The grand opening celebration will be held at the new store on Friday morning at 9 AM.",1
+"Effective time management leads to reduced stress and increased productivity.",0
+"The annual charity run will start at the park on Sunday morning at 8 AM.",1
+"Learning to forgive is beneficial for emotional healing and growth.",0
+"The quarterly review meeting will be held in the boardroom on Tuesday at 3 PM.",1
+"Regular meditation can help improve focus and concentration.",0
+"The wedding ceremony will take place at the garden venue on Saturday afternoon at 4 PM.",1
+"Maintaining healthy relationships requires effort and understanding.",0
+"The emergency evacuation drill will be conducted at the school on Monday at 2 PM.",1
+"Developing resilience helps us bounce back from setbacks.",0
+"The book signing event will be held at the bookstore on Thursday evening at 6 PM.",1
+"Regular dental care helps prevent tooth decay and gum disease.",0
+"The annual conference will feature expert speakers at the hotel on Wednesday.",1
+"Effective leadership involves setting a positive example for others.",0
+"The ribbon-cutting ceremony will occur at the new park on Friday at 11 AM.",1
+"Learning from mistakes helps us grow and improve.",0
+"The charity gala will be hosted at the mansion on Saturday night at 7:30 PM.",1
+"Regular exercise helps maintain flexibility and balance.",0
+"The court hearing will begin at the county courthouse on Tuesday morning at 10 AM.",1
+"Developing patience is a valuable life skill.",0
+"The product launch will take place at the convention center on Thursday at 1 PM.",1
+"Maintaining a positive attitude can improve overall well-being.",0
+"The annual memorial service will be held at the cemetery on Monday at 11 AM.",1
+"Regular sleep helps the body repair and rejuvenate itself.",0
+"The board retreat will be held at the resort on September 20th and 21st.",1
+"Effective communication involves both verbal and non-verbal cues.",0
+"The safety training will be conducted at the warehouse on Wednesday morning at 8 AM.",1
+"Learning to adapt to change is essential in today's fast-paced world.",0
+"The graduation speech will be delivered at the ceremony on Sunday afternoon at 3 PM.",1
+"Regular stretching helps prevent muscle stiffness and injury.",0
+"The annual fundraising dinner will be held at the hotel on Friday evening at 6 PM.",1
+"Developing self-discipline helps achieve long-term goals.",0
+"The emergency response exercise will take place at the hospital on Saturday at 9 AM.",1
+"Maintaining good hygiene is important for personal health.",0
+"The court trial will resume on Monday morning at 9:30 AM.",1
+"Effective problem-solving requires both logic and creativity.",0
+"The annual awards banquet will be hosted at the ballroom on Thursday evening at 7 PM.",1
+"Regular physical activity helps maintain mental clarity.",0
+"The ribbon-cutting ceremony will be held at the new library on Tuesday at 10 AM.",1
+"Learning to manage time effectively reduces stress and improves productivity.",0
+"The charity walk will begin at the community center on Saturday morning at 8:30 AM.",1
+"Developing emotional intelligence helps improve relationships.",0
+"The product demonstration will occur at the trade show on Wednesday afternoon at 3 PM.",1
+"Regular meditation can help reduce anxiety and improve focus.",0
+"The annual conference will be held at the convention center on May 15th and 16th.",1
+"Maintaining a healthy work-life balance is crucial for well-being.",0
+"The memorial dedication will take place at the monument on Sunday at 2 PM.",1
+"Effective leadership requires vision, integrity, and compassion.",0
+"The safety inspection will be conducted at the facility on Thursday morning at 10 AM.",1
+"Learning from failure is an important part of personal growth.",0
+"The annual stockholders meeting will be held at the corporate office on April 12th at 1 PM.",1
+"Regular exercise helps maintain cardiovascular health and endurance.",0
+"The court hearing will begin on Friday afternoon at 2:30 PM.",1
+"Developing patience helps improve decision-making abilities.",0
+"The grand opening will be celebrated at the new restaurant on Saturday evening at 6 PM.",1
+"Maintaining good relationships requires trust, respect, and communication.",0
+"The emergency preparedness training will be held at the fire station on Monday at 9 AM.",1
+"Regular reading helps improve vocabulary and comprehension skills.",0
+"The annual charity auction will take place at the country club on Thursday evening at 7:30 PM.",1
+"Effective time management involves prioritizing tasks and setting goals.",0
+"The wedding reception will be held at the banquet hall on Friday evening at 6:30 PM.",1
+"Learning new skills helps keep the mind active and engaged.",0
+"Books provide windows into different worlds and perspectives.",0
+"The sun rises in the east and sets in the west.",0
+"Water boils at 100 degrees Celsius at sea level.",0
+"Gravity pulls objects toward the center of the Earth.",0
+"The human brain contains approximately 86 billion neurons.",0
+"Photosynthesis is the process by which plants convert light into energy.",0
+"The speed of light in a vacuum is approximately 299,792,458 meters per second.",0
+"Elephants are the largest land mammals on Earth.",0
+"The periodic table organizes elements by their atomic number.",0
+"Honey never spoils due to its low moisture content and acidic pH.",0
+"The Great Wall of China is visible from space.",0
+"Sharks have existed for over 400 million years.",0
+"The Amazon rainforest produces about 20% of the world's oxygen.",0
+"Diamonds are the hardest natural substance on Earth.",0
+"The human heart beats approximately 100,000 times per day.",0
+"Octopuses have three hearts and blue blood.",0
+"The Sahara Desert is roughly the size of the United States.",0
+"Lightning is five times hotter than the surface of the sun.",0
+"Bananas are berries, but strawberries are not.",0
+"The human body is composed of approximately 60% water.",0
+"Penguins can drink saltwater because they have a gland that filters salt.",0
+"The longest recorded flight of a chicken is 13 seconds.",0
+"A group of flamingos is called a flamboyance.",0
+"The smallest bone in the human body is in the ear.",0
+"Honey bees communicate through dance.",0
+"The Earth's core is as hot as the surface of the sun.",0
+"Wombat droppings are cube-shaped.",0
+"The shortest war in history lasted only 38 minutes.",0
+"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",0
+"The human nose can detect over one trillion different scents.",0
+"Butterflies taste with their feet.",0
+"The longest living creature is a type of clam that can live over 500 years.",0
+"Sound travels four times faster in water than in air.",0
+"The human brain uses about 20% of the body's total energy.",0
+"Polar bears have black skin under their white fur.",0
+"The largest living structure on Earth is the Great Barrier Reef.",0
+"A day on Venus is longer than its year.",0
+"The human eye can distinguish about 10 million different colors.",0
+"Giraffes have the same number of neck vertebrae as humans.",0
+"The deepest part of the ocean is the Mariana Trench.",0
+"A sneeze travels at approximately 100 miles per hour.",0
+"The human body produces about 25 million new cells every second.",0
+"Koalas sleep for up to 22 hours a day.",0
+"The oldest living tree is over 4,800 years old.",0
+"A hummingbird's heart beats up to 1,260 times per minute.",0
+"The human stomach produces about 2 liters of gastric juice daily.",0
+"Dolphins have names for each other.",0
+"The largest snowflake ever recorded was 15 inches wide.",0
+"A person will walk the equivalent of about three times around the world in their lifetime.",0
+"The human brain continues to develop until age 25.",0
+"Bees can see ultraviolet light.",0
+"The Earth's magnetic field is generated by its molten iron core.",0
+"A group of crows is called a murder.",0
+"The human liver can regenerate itself.",0
+"Spiders are found on every continent except Antarctica.",0
+"The average person spends about 26 years of their life sleeping.",0
+"A single cloud can weigh more than a million pounds.",0
+"The human heart is about the size of a fist.",0
+"Chameleons change color for communication, not camouflage.",0
+"The largest muscle in the human body is the gluteus maximus.",0
+"Sea otters hold hands while sleeping to prevent drifting apart.",0
+"The human brain has no pain receptors.",0
+"A group of owls is called a parliament.",0
+"The shortest complete sentence in English is 'I am.'",0
+"Cats have a third eyelid called a nictitating membrane.",0
+"The human body contains enough iron to make a small nail.",0
+"Pineapples take about two years to grow.",0
+"The average person blinks about 17,000 times per day.",0
+"Turtles can breathe through their rear ends.",0
+"The human skeleton is made up of 206 bones in adults.",0
+"A group of jellyfish is called a smack.",0
+"The Earth rotates at about 1,000 miles per hour at the equator.",0
+"Lobsters were once considered poor people's food.",0
+"The human tongue has about 10,000 taste buds.",0
+"Snails can have up to 25,000 teeth.",0
+"The average person produces about 25,000 quarts of saliva in their lifetime.",0
+"Goldfish have a memory span of about three months, not three seconds.",0
+"The human body produces about 1.5 liters of mucus daily.",0
+"A group of zebras is called a dazzle.",0
+"The longest recorded hiccupping fit lasted 68 years.",0
+"Hummingbirds are the only birds that can fly backwards.",0
+"The human brain weighs about three pounds.",0
+"A group of kangaroos is called a mob.",0
+"The average person walks about 7,500 steps per day.",0
+"Crocodiles can't stick their tongues out.",0
+"The human body has about 37 trillion cells.",0
+"A group of porcupines is called a prickle.",0
+"The average person spends about 5 years of their life eating.",0
+"Starfish can regenerate lost arms.",0
+"The human heart has four chambers.",0
+"A group of rhinos is called a crash.",0
+"The average person laughs about 17 times per day.",0
+"Camels can drink up to 40 gallons of water at once.",0
+"The human body produces about 2.5 pints of saliva daily.",0
+"A group of hippos is called a bloat.",0
+"The average person takes about 23,000 breaths per day.",0
+"Seahorses are the only species where males give birth.",0
+"The human body has about 5 million hair follicles.",0
+"A group of peacocks is called a muster.",0
+"The average person speaks about 16,000 words per day.",0
+"Sloths only defecate once a week.",0
+"The human body produces about 1.5 liters of urine daily.",0
+"A group of wolves is called a pack.",0
+"The average person checks their phone 96 times per day.",0
+"Hummingbirds can fly at speeds up to 30 miles per hour.",0
+"The human body has about 650 muscles.",0
+"A group of lions is called a pride.",0
+"The average person dreams for about 2 hours each night.",0
+"Woodpeckers' tongues can be up to 4 inches long.",0
+"The human body produces about 2 million red blood cells every second.",0
+"A group of geese is called a gaggle on land and a skein in flight.",0
+"The average person consumes about 35 tons of food in their lifetime.",0
+"Penguins can jump up to 6 feet out of the water.",0
+"The human body has about 206 bones at birth, but some fuse together.",0
+"A group of ants is called a colony.",0
+"The average person spends about 90 minutes per day looking for lost items.",0
+"Dolphins sleep with one eye open.",0
+"The human body produces about 10,000 gallons of tears in a lifetime.",0
+"A group of fish is called a school.",0
+"The average person will spend about 13 years of their life at work.",0
+"Beavers' teeth never stop growing.",0
+"The human body has about 100,000 miles of blood vessels.",0
+"A group of bees is called a hive or swarm.",0
+"The average person will eat about 70,000 meals in their lifetime.",0
+"Giraffes only need 5-30 minutes of sleep per day.",0
+"The human body produces about 40 pounds of dead skin cells per year.",0
+"A group of butterflies is called a flutter.",0
+"The average person will spend about 6 months of their life waiting for red lights.",0
+"Elephants can't jump.",0
+"The human body has about 2.5 million sweat glands.",0
+"A group of crabs is called a cast.",0
+"The average person will spend about 4 years of their life driving.",0
+"Hummingbirds can hover in place.",0
+"The human body produces about 1.5 gallons of gastric juice daily.",0
+"A group of ravens is called an unkindness.",0
+"The average person will spend about 3 years of their life on the toilet.",0
+"Cheetahs can't roar, they can only purr and chirp.",0
+"The human body has about 40 trillion bacteria.",0
+"A group of frogs is called an army.",0
+"The average person will spend about 5 months of their life complaining.",0
+"Hummingbirds have the highest metabolism of any bird.",0
+"The human body produces about 2 liters of lymphatic fluid daily.",0
+"A group of sharks is called a shiver.",0
+"The average person will spend about 2 weeks of their life kissing.",0
+"Pandas spend 14 hours a day eating bamboo.",0
+"The human body has about 5 liters of blood.",0
+"A group of turtles is called a bale.",0
+"The average person will spend about 1 year of their life looking for lost socks.",0
+"Hummingbirds can fly upside down.",0
+"The human body produces about 1.5 liters of bile daily.",0
+"A group of whales is called a pod.",0
+"The average person will spend about 6 months of their life waiting in line.",0
+"Koalas have fingerprints that are remarkably similar to human fingerprints.",0
+"The human body has about 300 bones at birth.",0
+"A group of seals is called a pod.",0
+"The average person will spend about 2 years of their life on the phone.",0
+"Hummingbirds are the smallest birds in the world.",0
+"The human body produces about 1 liter of nasal mucus daily.",0
+"A group of monkeys is called a troop.",0
+"The average person will spend about 8 months of their life opening mail.",0
+"Sloths move so slowly that algae grows on their fur.",0
+"The human body has about 78 organs.",0
+"A group of horses is called a herd.",0
+"The average person will spend about 1 year of their life searching for things.",0
+"Hummingbirds can remember every flower they've visited.",0
+"The human body produces about 2 liters of digestive juices daily.",0
+"A group of cats is called a clowder.",0
+"The average person will spend about 4 months of their life reading.",0
+"Penguins propose to their mates with pebbles.",0
+"The human body has about 5 million scent receptors.",0
+"A group of dogs is called a pack.",0
+"The average person will spend about 3 months of their life laughing.",0
+"Hummingbirds can enter a state similar to hibernation called torpor.",0
+"The human body produces about 1.5 liters of cerebrospinal fluid daily.",0
+"A group of rabbits is called a warren.",0
+"The average person will spend about 2 months of their life on hold.",0
+"Sloths can rotate their heads 270 degrees.",0
+"The human body has about 1,000 different types of bacteria.",0
+"A group of deer is called a herd.",0
+"The average person will spend about 1 month of their life in meetings.",0
+"Hummingbirds have excellent memories and can remember migration routes.",0
+"The human body produces about 3 liters of various secretions daily.",0
+"A group of elephants is called a herd.",0
+"The average person will spend about 2 weeks of their life tying shoes.",0
+"Koalas have two thumbs on each hand.",0
+"The human body has about 50,000 thoughts per day.",0
+"A group of bears is called a sleuth.",0
+"The average person will spend about 6 days of their life hiccupping.",0
+"Hummingbirds can see into the ultraviolet spectrum.",0
+"The human body produces about 4 liters of various fluids daily.",0
+"A group of tigers is called a streak.",0
+"The average person will spend about 3 days of their life sneezing.",0
+"Penguins can drink salt water because they have a supraorbital gland.",0
+"The human body has about 37 million million cells.",0
+"A group of leopards is called a leap.",0
+"The average person will spend about 1 day of their life blinking.",0
+"Hummingbirds have the largest brain-to-body ratio of any bird.",0
+"The human body produces about 5 liters of various secretions daily.",0
+"A group of cheetahs is called a coalition.",0
+"The average person will spend about 4 hours of their life shaking hands.",0
+"Sloths are excellent swimmers despite being slow on land.",0
+"The human body has about 86 billion nerve cells.",0
+"A group of jaguars is called a shadow.",0
+"The average person will spend about 2 hours of their life brushing their teeth.",0
+"Hummingbirds can fly at altitudes up to 20,000 feet.",0
+"The human body produces about 6 liters of various fluids daily.",0
+"A group of panthers is called a leap.",0
+"The average person will spend about 30 minutes of their life waiting for elevators.",0
+"Koalas rarely drink water, getting moisture from eucalyptus leaves.",0
+"The human body has about 100 billion fat cells.",0
+"A group of lynx is called a link.",0
+"The average person will spend about 20 minutes of their life looking for parking.",0
+"Hummingbirds can survive temperatures as low as 20 degrees Fahrenheit.",0
+"The human body produces about 7 liters of various secretions daily.",0
+"A group of cougars is called a leap.",0
+"The average person will spend about 15 minutes of their life waiting for toast.",0
+"Penguins can leap up to 8 feet out of the water.",0
+"The human body has about 200 different types of cells.",0
