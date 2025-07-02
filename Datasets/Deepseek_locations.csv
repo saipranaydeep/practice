@@ -1,0 +1,501 @@
+id,sentence
+1,The venue is the Grand Hyatt in Mumbai.
+2,We'll be gathering at Central Park, New York.
+3,Everything will take place at the IIT Delhi auditorium.
+4,The location is Club Escape on 5th Avenue.
+5,It's happening at Marina Bay Sands in Singapore.
+6,We’re meeting at the Louvre Museum in Paris.
+7,The place to be is the Tokyo Dome in Japan.
+8,Join us at the Sydney Opera House for the occasion.
+9,The spot is the rooftop of The Standard, LA.
+10,All guests should head to the Ritz-Carlton, Dubai.
+11,We’ll be at the Shard in London for the evening.
+12,The address is 123 Main Street, Downtown.
+13,Find us at the Eiffel Tower’s summit restaurant.
+14,The gathering point is the Bellagio Fountains in Vegas.
+15,The exact location is the Harvard Science Center.
+16,We’ve booked the entire MoMA for the night.
+17,It’s all set at the Burj Al Arab’s Skyview Bar.
+18,The place? The Colosseum in Rome.
+19,We’ll be waiting at the Blue Note Jazz Club.
+20,The spot is the Marina Bay Sands Infinity Pool.
+21,Head over to the Sistine Chapel for the gathering.
+22,The venue? The Googleplex in Mountain View.
+23,Meet us at the top of the Empire State Building.
+24,The location is the Golden Gate Bridge’s vista point.
+25,We’re stationed at the Champs-Élysées in Paris.
+26,The place to be is the Dubai Mall’s ice rink.
+27,Find us at the base of the Statue of Liberty.
+28,The gathering is at the Acropolis in Athens.
+29,We’ll be at the Eden Project in Cornwall.
+30,The spot is the Singapore Flyer observation deck.
+31,The venue is the National Gallery in London.
+32,We’re set up at the Red Square in Moscow.
+33,The location is the Vatican Museums.
+34,Meet us at the top of the CN Tower in Toronto.
+35,The place is the Petronas Towers in Kuala Lumpur.
+36,We’ll be at the Christ the Redeemer statue.
+37,The exact spot is the Sydney Harbour Bridge.
+38,Head to the Forbidden City’s main courtyard.
+39,The gathering point is the Taj Mahal’s gardens.
+40,We’re stationed at the Niagara Falls overlook.
+41,The venue is the Sheikh Zayed Grand Mosque.
+42,Find us at the Hollywood Walk of Fame.
+43,The location is the Sagrada Família in Barcelona.
+44,We’ll be at the Alhambra Palace in Spain.
+45,The spot is the Brandenburg Gate in Berlin.
+46,Meet us at the Lincoln Memorial in D.C.
+47,The place is the Atomium in Brussels.
+48,We’re gathering at the Leaning Tower of Pisa.
+49,The venue is the Palace of Versailles.
+50,Head over to the Great Wall of China’s watchtower.
+51,The location is the Hermitage Museum in Russia.
+52,We’ll be at the Neuschwanstein Castle in Germany.
+53,The spot is the Blue Lagoon in Iceland.
+54,Meet us at the Victoria Peak in Hong Kong.
+55,The place is the Grand Bazaar in Istanbul.
+56,We’re set up at the Angkor Wat temple complex.
+57,The venue is the Machu Picchu ruins.
+58,Find us at the Santorini caldera in Greece.
+59,The gathering point is the Dubai Fountain Boardwalk.
+60,We’ll be at the Louvre Abu Dhabi’s entrance.
+61,The exact location is the Gardens by the Bay.
+62,Head to the Metropolitan Museum of Art’s steps.
+63,The place is the Rockefeller Center ice rink.
+64,We’re stationed at the Times Square crossroads.
+65,The venue is the Notre-Dame Cathedral plaza.
+66,Meet us at the Tower Bridge in London.
+67,The location is the Uffizi Gallery in Florence.
+68,We’ll be at the St. Peter’s Basilica dome.
+69,The spot is the Hagia Sophia in Istanbul.
+70,Find us at the Trevi Fountain in Rome.
+71,The gathering is at the Sydney Harbour’s edge.
+72,We’re set up at the Bondi Beach promenade.
+73,The venue is the Copacabana Beach in Rio.
+74,Head over to the Waikiki Beach shoreline.
+75,The place is the Maldives’ overwater bungalows.
+76,We’ll be at the Santorini cliffside villas.
+77,The exact spot is the Amalfi Coast’s viewpoint.
+78,Meet us at the Banff National Park’s lake.
+79,The location is the Yellowstone geyser basin.
+80,We’re gathering at the Grand Canyon’s South Rim.
+81,The spot is the Niagara Falls’ Maid of the Mist.
+82,Find us at the Serengeti safari camp.
+83,The venue is the Amazon rainforest lodge.
+84,We’ll be at the Great Barrier Reef pontoon.
+85,The place is the Patagonia glacier lookout.
+86,Head to the Dead Sea’s floating pier.
+87,The gathering point is the Sahara Desert oasis.
+88,We’re stationed at the Swiss Alps chalet.
+89,The exact location is the Norwegian fjord dock.
+90,Meet us at the Iceland black sand beach.
+91,The venue is the Kyoto bamboo forest path.
+92,We’ll be at the Bali rice terrace overlook.
+93,The spot is the Bora Bora overwater deck.
+94,Find us at the Santorini sunset viewpoint.
+95,The gathering is at the Venice canals’ edge.
+96,We’re set up at the Prague Castle courtyard.
+97,The place is the Budapest thermal baths.
+98,Head over to the Vienna State Opera steps.
+99,The location is the Amsterdam canal house.
+100,We’ll be at the Brussels Grand Place square.
+101,The venue is the Lisbon tram stop.
+102,Meet us at the Edinburgh Castle esplanade.
+103,The spot is the Dublin Temple Bar pub.
+104,Find us at the Stockholm City Hall balcony.
+105,The gathering point is the Oslo Opera House roof.
+106,We’re stationed at the Helsinki Senate Square.
+107,The exact location is the Reykjavik Hallgrímskirkja.
+108,Head to the Copenhagen Nyhavn docks.
+109,The place is the Berlin Wall Memorial.
+110,We’ll be at the Munich Hofbräuhaus beer hall.
+111,The venue is the Zurich Bahnhofstrasse.
+112,Meet us at the Geneva Jet d’Eau lakeside.
+113,The location is the Monaco Casino Square.
+114,We’re gathering at the Nice Promenade des Anglais.
+115,The spot is the Marseille Old Port.
+116,Find us at the Lyon Place Bellecour.
+117,The gathering is at the Bordeaux quayside.
+118,We’re set up at the Toulouse Capitole.
+119,The place is the Strasbourg Cathedral plaza.
+120,Head over to the Lille Grand Place.
+121,The venue is the Brussels Comic Strip Wall.
+122,We’ll be at the Antwerp Diamond District.
+123,Meet us at the Bruges Markt Square.
+124,The exact spot is the Ghent Gravensteen.
+125,Find us at the Rotterdam Cube Houses.
+126,The gathering point is the Hague Peace Palace.
+127,We’re stationed at the Utrecht Dom Tower.
+128,The location is the Eindhoven Strijp-S.
+129,We’ll be at the Maastricht Vrijthof.
+130,The spot is the Groningen Martini Tower.
+131,Meet us at the Arnhem Sonsbeek Park.
+132,The venue is the Zwolle Sassenpoort.
+133,Head to the Haarlem Grote Markt.
+134,The place is the Delft Royal Factory.
+135,We’re gathering at the Leiden Pieterskerk.
+136,Find us at the Alkmaar Cheese Market.
+137,The gathering is at the Amersfoort Koppelpoort.
+138,We’re set up at the Breda Grote Kerk.
+139,The exact location is the Den Bosch St. John’s.
+140,Meet us at the Enschede Van Heekplein.
+141,The venue is the Nijmegen Waalbrug.
+142,We’ll be at the Tilburg Spoorzone.
+143,The spot is the Apeldoorn Het Loo Palace.
+144,Head over to the Leeuwarden Oldehove.
+145,The place is the Zwolle Waanders In de Broeren.
+146,We’re stationed at the Deventer Bergkerk.
+147,The gathering point is the Zutphen Walstraat.
+148,Find us at the Kampen Bovenkerk.
+149,The location is the Doesburg Martinikerk.
+150,We’ll be at the Harderwijk Dolfinarium.
+151,The venue is the Elburg Vischpoort.
+152,Meet us at the Hattem Anton Pieck Museum.
+153,The spot is the Ommen Besthmenermolen.
+154,Find us at the Coevorden Arsenal.
+155,The gathering is at the Meppel Drukkerijmuseum.
+156,We’re set up at the Steenwijk De Meenthe.
+157,The place is the Hoogeveen De Tamboer.
+158,Head to the Emmen Wildlands.
+159,The exact location is the Assen TT Circuit.
+160,We’ll be at the Groningen Forum.
+161,The venue is the Winschoten Synagogue.
+162,Meet us at the Veendam Van Bergenplein.
+163,The location is the Stadskanaal Musselkanaal.
+164,We’re gathering at the Ter Apel Vesting.
+165,The spot is the Vlagtwedde Bourtange.
+166,Find us at the Bellingwedde Wedderbergen.
+167,The gathering point is the Pekela Oude Pekela.
+168,We’re stationed at the Oldambt Finsterwolde.
+169,The place is the Delfzijl Zeeburg.
+170,Head over to the Appingedam Walfriduskerk.
+171,The venue is the Loppersum Magnuskerk.
+172,We’ll be at the Ten Boelsteroute.
+173,Meet us at the Warffum Schoolstraat.
+174,The exact spot is the Uithuizen Menkemaborg.
+175,Find us at the Bedum Walfriduskerk.
+176,The gathering is at the Zuidhorn Hoofdstraat.
+177,We’re set up at the Leek Nienoord.
+178,The location is the Marum Molenstraat.
+179,We’ll be at the Grootegast Muziekkoepel.
+180,The spot is the Surhuisterveen Voorstraat.
+181,Meet us at the Drachten Smallingerland.
+182,The venue is the Heerenveen Abe Lenstra.
+183,Head to the Joure Merkplein.
+184,The place is the Sneek Waterpoort.
+185,We’re gathering at the Bolsward Stadhuis.
+186,Find us at the Harlingen Noorderhaven.
+187,The gathering point is the Franeker Planetarium.
+188,We’re stationed at the Dokkum Admiraliteitshuis.
+189,The exact location is the Leeuwarden Prinsentuin.
+190,Meet us at the Bergum Burgum.
+191,The venue is the Damwâld Damwâld.
+192,We’ll be at the Feanwâlden Feanwâlden.
+193,The spot is the Buitenpost Buitenpost.
+194,Head over to the Kollum Kollum.
+195,The place is the Surhuzum Surhuzum.
+196,We’re set up at the Twijzel Twijzel.
+197,The location is the Augustinusga Augustinusga.
+198,We’ll be at the Drogeham Drogeham.
+199,The gathering is at the Harkema Harkema.
+200,Find us at the Surhuizum Surhuizum.
+201,The venue is the Marum Marum.
+202,Meet us at the Leek Leek.
+203,The exact spot is the Zuidhorn Zuidhorn.
+204,Head to the Groningen Groningen.
+205,The place is the Assen Assen.
+206,We’re gathering at the Emmen Emmen.
+207,Find us at the Hoogeveen Hoogeveen.
+208,The gathering point is the Meppel Meppel.
+209,We’re stationed at the Steenwijk Steenwijk.
+210,The location is the Zwolle Zwolle.
+211,We’ll be at the Deventer Deventer.
+212,The spot is the Zutphen Zutphen.
+213,Meet us at the Apeldoorn Apeldoorn.
+214,The venue is the Arnhem Arnhem.
+215,Head over to the Nijmegen Nijmegen.
+216,The place is the Eindhoven Eindhoven.
+217,We’re set up at the Tilburg Tilburg.
+218,The exact location is the Breda Breda.
+219,Meet us at the Dordrecht Dordrecht.
+220,The venue is the Rotterdam Rotterdam.
+221,We’ll be at the Den Haag Den Haag.
+222,The spot is the Leiden Leiden.
+223,Find us at the Haarlem Haarlem.
+224,The gathering is at the Amsterdam Amsterdam.
+225,We’re set up at the Utrecht Utrecht.
+226,The place is the Hilversum Hilversum.
+227,Head to the Almere Almere.
+228,The location is the Lelystad Lelystad.
+229,We’ll be at the Zwolle Zwolle.
+230,The gathering point is the Deventer Deventer.
+231,We’re stationed at the Zutphen Zutphen.
+232,The exact spot is the Apeldoorn Apeldoorn.
+233,Meet us at the Arnhem Arnhem.
+234,The venue is the Nijmegen Nijmegen.
+235,We’ll be at the Eindhoven Eindhoven.
+236,The spot is the Tilburg Tilburg.
+237,Head over to the Breda Breda.
+238,The place is the Dordrecht Dordrecht.
+239,We’re gathering at the Rotterdam Rotterdam.
+240,Find us at the Den Haag Den Haag.
+241,The gathering is at the Leiden Leiden.
+242,We’re set up at the Haarlem Haarlem.
+243,The location is the Amsterdam Amsterdam.
+244,We’ll be at the Utrecht Utrecht.
+245,The venue is the Hilversum Hilversum.
+246,Meet us at the Almere Almere.
+247,The exact location is the Lelystad Lelystad.
+248,Head to the Zwolle Zwolle.
+249,The place is the Deventer Deventer.
+250,We’re stationed at the Zutphen Zutphen.
+251,The gathering point is the Apeldoorn Apeldoorn.
+252,Find us at the Arnhem Arnhem.
+253,The venue is the Nijmegen Nijmegen.
+254,We’ll be at the Eindhoven Eindhoven.
+255,The spot is the Tilburg Tilburg.
+256,Meet us at the Breda Breda.
+257,The location is the Dordrecht Dordrecht.
+258,We’re gathering at the Rotterdam Rotterdam.
+259,Find us at the Den Haag Den Haag.
+260,The gathering is at the Leiden Leiden.
+261,We’re set up at the Haarlem Haarlem.
+262,The place is the Amsterdam Amsterdam.
+263,Head over to the Utrecht Utrecht.
+264,The exact spot is the Hilversum Hilversum.
+265,We’ll be at the Almere Almere.
+266,The venue is the Lelystad Lelystad.
+267,Meet us at the Zwolle Zwolle.
+268,The spot is the Deventer Deventer.
+269,Find us at the Zutphen Zutphen.
+270,The gathering point is the Apeldoorn Apeldoorn.
+271,We’re stationed at the Arnhem Arnhem.
+272,The location is the Nijmegen Nijmegen.
+273,We’ll be at the Eindhoven Eindhoven.
+274,The place is the Tilburg Tilburg.
+275,Head to the Breda Breda.
+276,The venue is the Dordrecht Dordrecht.
+277,We’re gathering at the Rotterdam Rotterdam.
+278,Find us at the Den Haag Den Haag.
+279,The gathering is at the Leiden Leiden.
+280,We’re set up at the Haarlem Haarlem.
+281,The exact location is the Amsterdam Amsterdam.
+282,Meet us at the Utrecht Utrecht.
+283,The spot is the Hilversum Hilversum.
+284,We’ll be at the Almere Almere.
+285,The place is the Lelystad Lelystad.
+286,Head over to the Zwolle Zwolle.
+287,The venue is the Deventer Deventer.
+288,We’re stationed at the Zutphen Zutphen.
+289,The gathering point is the Apeldoorn Apeldoorn.
+290,Find us at the Arnhem Arnhem.
+291,The location is the Nijmegen Nijmegen.
+292,We’ll be at the Eindhoven Eindhoven.
+293,The spot is the Tilburg Tilburg.
+294,Meet us at the Breda Breda.
+295,The exact spot is the Dordrecht Dordrecht.
+296,The venue is the Rotterdam Rotterdam.
+297,We’re gathering at the Den Haag Den Haag.
+298,Find us at the Leiden Leiden.
+299,The gathering is at the Haarlem Haarlem.
+300,We’re set up at the Amsterdam Amsterdam.
+301,The place is the Utrecht Utrecht.
+302,Head to the Hilversum Hilversum.
+303,The location is the Almere Almere.
+304,We’ll be at the Lelystad Lelystad.
+305,The spot is the Zwolle Zwolle.
+306,Meet us at the Deventer Deventer.
+307,The venue is the Zutphen Zutphen.
+308,We’re stationed at the Apeldoorn Apeldoorn.
+309,The gathering point is the Arnhem Arnhem.
+310,Find us at the Nijmegen Nijmegen.
+311,The exact location is the Eindhoven Eindhoven.
+312,We’ll be at the Tilburg Tilburg.
+313,The place is the Breda Breda.
+314,Head over to the Dordrecht Dordrecht.
+315,The venue is the Rotterdam Rotterdam.
+316,We’re gathering at the Den Haag Den Haag.
+317,Find us at the Leiden Leiden.
+318,The gathering is at the Haarlem Haarlem.
+319,We’re set up at the Amsterdam Amsterdam.
+320,The spot is the Utrecht Utrecht.
+321,Meet us at the Hilversum Hilversum.
+322,The location is the Almere Almere.
+323,We’ll be at the Lelystad Lelystad.
+324,The exact spot is the Zwolle Zwolle.
+325,The venue is the Deventer Deventer.
+326,We’re stationed at the Zutphen Zutphen.
+327,The gathering point is the Apeldoorn Apeldoorn.
+328,Find us at the Arnhem Arnhem.
+329,The place is the Nijmegen Nijmegen.
+330,Head to the Eindhoven Eindhoven.
+331,The location is the Tilburg Tilburg.
+332,We’ll be at the Breda Breda.
+333,The spot is the Dordrecht Dordrecht.
+334,Meet us at the Rotterdam Rotterdam.
+335,The venue is the Den Haag Den Haag.
+336,We’re gathering at the Leiden Leiden.
+337,Find us at the Haarlem Haarlem.
+338,The gathering is at the Amsterdam Amsterdam.
+339,We’re set up at the Utrecht Utrecht.
+340,The exact location is the Hilversum Hilversum.
+341,We’ll be at the Almere Almere.
+342,The place is the Lelystad Lelystad.
+343,Head over to the Zwolle Zwolle.
+344,The venue is the Deventer Deventer.
+345,We’re stationed at the Zutphen Zutphen.
+346,The gathering point is the Apeldoorn Apeldoorn.
+347,Find us at the Arnhem Arnhem.
+348,The location is the Nijmegen Nijmegen.
+349,We’ll be at the Eindhoven Eindhoven.
+350,The spot is the Tilburg Tilburg.
+351,Meet us at the Breda Breda.
+352,The exact spot is the Dordrecht Dordrecht.
+353,The venue is the Rotterdam Rotterdam.
+354,We’re gathering at the Den Haag Den Haag.
+355,Find us at the Leiden Leiden.
+356,The gathering is at the Haarlem Haarlem.
+357,We’re set up at the Amsterdam Amsterdam.
+358,The place is the Utrecht Utrecht.
+359,Head to the Hilversum Hilversum.
+360,The location is the Almere Almere.
+361,We’ll be at the Lelystad Lelystad.
+362,The spot is the Zwolle Zwolle.
+363,Meet us at the Deventer Deventer.
+364,The venue is the Zutphen Zutphen.
+365,We’re stationed at the Apeldoorn Apeldoorn.
+366,The gathering point is the Arnhem Arnhem.
+367,Find us at the Nijmegen Nijmegen.
+368,The exact location is the Eindhoven Eindhoven.
+369,We’ll be at the Tilburg Tilburg.
+370,The place is the Breda Breda.
+371,Head over to the Dordrecht Dordrecht.
+372,The venue is the Rotterdam Rotterdam.
+373,We’re gathering at the Den Haag Den Haag.
+374,Find us at the Leiden Leiden.
+375,The gathering is at the Haarlem Haarlem.
+376,We’re set up at the Amsterdam Amsterdam.
+377,The spot is the Utrecht Utrecht.
+378,Meet us at the Hilversum Hilversum.
+379,The location is the Almere Almere.
+380,We’ll be at the Lelystad Lelystad.
+381,The exact spot is the Zwolle Zwolle.
+382,The venue is the Deventer Deventer.
+383,We’re stationed at the Zutphen Zutphen.
+384,The gathering point is the Apeldoorn Apeldoorn.
+385,Find us at the Arnhem Arnhem.
+386,The place is the Nijmegen Nijmegen.
+387,Head to the Eindhoven Eindhoven.
+388,The location is the Tilburg Tilburg.
+389,We’ll be at the Breda Breda.
+390,The spot is the Dordrecht Dordrecht.
+391,Meet us at the Rotterdam Rotterdam.
+392,The venue is the Den Haag Den Haag.
+393,We’re gathering at the Leiden Leiden.
+394,Find us at the Haarlem Haarlem.
+395,The gathering is at the Amsterdam Amsterdam.
+396,We’re set up at the Utrecht Utrecht.
+397,The exact location is the Hilversum Hilversum.
+398,We’ll be at the Almere Almere.
+399,The place is the Lelystad Lelystad.
+400,Head over to the Zwolle Zwolle.
+401,The venue is the Deventer Deventer.
+402,We’re stationed at the Zutphen Zutphen.
+403,The gathering point is the Apeldoorn Apeldoorn.
+404,Find us at the Arnhem Arnhem.
+405,The location is the Nijmegen Nijmegen.
+406,We’ll be at the Eindhoven Eindhoven.
+407,The spot is the Tilburg Tilburg.
+408,Meet us at the Breda Breda.
+409,The exact spot is the Dordrecht Dordrecht.
+410,The venue is the Rotterdam Rotterdam.
+411,We’re gathering at the Den Haag Den Haag.
+412,Find us at the Leiden Leiden.
+413,The gathering is at the Haarlem Haarlem.
+414,We’re set up at the Amsterdam Amsterdam.
+415,The place is the Utrecht Utrecht.
+416,Head to the Hilversum Hilversum.
+417,The location is the Almere Almere.
+418,We’ll be at the Lelystad Lelystad.
+419,The spot is the Zwolle Zwolle.
+420,Meet us at the Deventer Deventer.
+421,The venue is the Zutphen Zutphen.
+422,We’re stationed at the Apeldoorn Apeldoorn.
+423,The gathering point is the Arnhem Arnhem.
+424,Find us at the Nijmegen Nijmegen.
+425,The exact location is the Eindhoven Eindhoven.
+426,We’ll be at the Tilburg Tilburg.
+427,The place is the Breda Breda.
+428,Head over to the Dordrecht Dordrecht.
+429,The venue is the Rotterdam Rotterdam.
+430,We’re gathering at the Den Haag Den Haag.
+431,Find us at the Leiden Leiden.
+432,The gathering is at the Haarlem Haarlem.
+433,We’re set up at the Amsterdam Amsterdam.
+434,The spot is the Utrecht Utrecht.
+435,Meet us at the Hilversum Hilversum.
+436,The location is the Almere Almere.
+437,We’ll be at the Lelystad Lelystad.
+438,The exact spot is the Zwolle Zwolle.
+439,The venue is the Deventer Deventer.
+440,We’re stationed at the Zutphen Zutphen.
+441,The gathering point is the Apeldoorn Apeldoorn.
+442,Find us at the Arnhem Arnhem.
+443,The place is the Nijmegen Nijmegen.
+444,Head to the Eindhoven Eindhoven.
+445,The location is the Tilburg Tilburg.
+446,We’ll be at the Breda Breda.
+447,The spot is the Dordrecht Dordrecht.
+448,Meet us at the Rotterdam Rotterdam.
+449,The venue is the Den Haag Den Haag.
+450,We’re gathering at the Leiden Leiden.
+451,Find us at the Haarlem Haarlem.
+452,The gathering is at the Amsterdam Amsterdam.
+453,We’re set up at the Utrecht Utrecht.
+454,The exact location is the Hilversum Hilversum.
+455,We’ll be at the Almere Almere.
+456,The place is the Lelystad Lelystad.
+457,Head over to the Zwolle Zwolle.
+458,The venue is the Deventer Deventer.
+459,We’re stationed at the Zutphen Zutphen.
+460,The gathering point is the Apeldoorn Apeldoorn.
+461,Find us at the Arnhem Arnhem.
+462,The location is the Nijmegen Nijmegen.
+463,We’ll be at the Eindhoven Eindhoven.
+464,The spot is the Tilburg Tilburg.
+465,Meet us at the Breda Breda.
+466,The exact spot is the Dordrecht Dordrecht.
+467,The venue is the Rotterdam Rotterdam.
+468,We’re gathering at the Den Haag Den Haag.
+469,Find us at the Leiden Leiden.
+470,The gathering is at the Haarlem Haarlem.
+471,We’re set up at the Amsterdam Amsterdam.
+472,The place is the Utrecht Utrecht.
+473,Head to the Hilversum Hilversum.
+474,The location is the Almere Almere.
+475,We’ll be at the Lelystad Lelystad.
+476,The spot is the Zwolle Zwolle.
+477,Meet us at the Deventer Deventer.
+478,The venue is the Zutphen Zutphen.
+479,We’re stationed at the Apeldoorn Apeldoorn.
+480,The gathering point is the Arnhem Arnhem.
+481,Find us at the Nijmegen Nijmegen.
+482,The exact location is the Eindhoven Eindhoven.
+483,We’ll be at the Tilburg Tilburg.
+484,The place is the Breda Breda.
+485,Head over to the Dordrecht Dordrecht.
+486,The venue is the Rotterdam Rotterdam.
+487,We’re gathering at the Den Haag Den Haag.
+488,Find us at the Leiden Leiden.
+489,The gathering is at the Haarlem Haarlem.
+490,We’re set up at the Amsterdam Amsterdam.
+491,The spot is the Utrecht Utrecht.
+492,Meet us at the Hilversum Hilversum.
+493,The location is the Almere Almere.
+494,We’ll be at the Lelystad Lelystad.
+495,The exact spot is the Zwolle Zwolle.
+496,The venue is the Deventer Deventer.
+497,We’re stationed at the Zutphen Zutphen.
+498,The gathering point is the Apeldoorn Apeldoorn.
+499,Find us at the Arnhem Arnhem.
+500,The place is the Nijmegen Nijmegen.
